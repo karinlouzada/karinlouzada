@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karinlouzada.
 - 👀 I’m interested in drawing, coding, hiking and my dog.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on data science projects related to organ donation and ALS genetics.
+- 💞️ I’m looking to collaborate on data science projects.
 - 📫 How to reach me 
 
 <!---
