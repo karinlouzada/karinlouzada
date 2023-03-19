@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @karinlouzada.
 - 👀 I’m interested in drawing, coding, hiking and my dog.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and R!
 - 💞️ I’m looking to collaborate on data science projects.
-- 📫 How to reach me 
+- 📫 I can be reached via LinkedIn: https://www.linkedin.com/in/karin-louzada-32774816/.
 
 <!---
 karinlouzada/karinlouzada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
